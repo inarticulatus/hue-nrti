@@ -7,11 +7,11 @@ pageClass: homepage
 ---
 <center>
 <img class="hueloop_hero" src="./cover.png">
-<img class="hueloop_hero_mobile" src="./cover_mobile.png">
+<img class="hueloop_hero_mobile" src="./cover_mobile.png" width="250px">
 </center>
 <blogPage><h1 style="height:100px;">Hyperloop Pod Development Team</h1>
 
-<p style="margin:40px;">
+<p>
 
 One of the major objectives of HUE was to facilitate the team that would be represent NRTI at Hyperloop Pod Competition. The project is very difficult, and will require a large team. Given the lack domain knowledge, it becomes even more difficult. But we need to start somewhere. And this is the perfect place to start.
 

@@ -14,8 +14,8 @@
 @media only screen and (min-width: 600px) {
 .blog_page{
     top: -30vh;
-    width:70vw; 
-    padding: 50px;
+    width:60vw; 
+    padding: 90px;
     z-index: 2;
     min-height:500px; 
     box-shadow:0 0 8px 0 rgba(0,0,0,.4); 
@@ -39,7 +39,7 @@
 @media only screen and (max-width: 600px) {
   .blog_page {
     top: 0;
-    padding: 50px;
+    padding: 10px;
     z-index: 2;
     margin:0 auto; 
     position:relative;
