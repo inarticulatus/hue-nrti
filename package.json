@@ -6,14 +6,12 @@
   "description": "--- pageClass: homepage ---",
   "version": "1.0.0",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inarticulatus/hue-nrti.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [hue],
+  "author": "inarticulatus",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/inarticulatus/hue-nrti/issues"
