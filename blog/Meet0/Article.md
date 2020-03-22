@@ -1,6 +1,6 @@
 ---
-title: HUErustic
-description: What is the idea?
+title: Our first meet
+description: null
 author: Utkarsh Tripathi
 type: article
 image: Meet0/meet0.png
