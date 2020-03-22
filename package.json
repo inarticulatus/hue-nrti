@@ -1,6 +1,22 @@
 {
-    "scripts": {
-      "build": "vuepress build"
-    }
-  }
-  
+  "scripts": {
+    "build": "vuepress build"
+  },
+  "name": "vuepress",
+  "description": "--- pageClass: homepage ---",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inarticulatus/hue-nrti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inarticulatus/hue-nrti/issues"
+  },
+  "homepage": "https://github.com/inarticulatus/hue-nrti#readme"
+}
