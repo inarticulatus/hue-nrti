@@ -15,7 +15,7 @@
 .blog_page{
     top: -30vh;
     width:60vw; 
-    padding: 90px;
+    padding: 100px;
     z-index: 2;
     min-height:500px; 
     box-shadow:0 0 8px 0 rgba(0,0,0,.4); 

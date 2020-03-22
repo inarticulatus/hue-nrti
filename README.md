@@ -32,15 +32,15 @@ We also wish to test our mettle in various competitions around.
 <div style="width: 300px;padding-top: 70px;"> 
 <p>
 By any chance, you interested? 
-To know what the team is for, <a href="">check this out</a>
+To know what the team is for, <a href="/hueloop/">check this out</a>
 <br>
 We would be releasing a form soon.
 Keep checking. 
 <br>
-Also, you could subscribe to our newsletter here.
-<a href="">Newsletter</a></p>
+Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</a></p>
 </div>
 </div>
+
 
 <style>
 .mainContent{
@@ -77,5 +77,7 @@ Also, you could subscribe to our newsletter here.
     display: none;
 }
 }
-
 </style>
+
+
+

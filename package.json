@@ -18,5 +18,8 @@
   },
   "dependencies": {
     "vuepress": "^1.4.0"
+  },
+  "devDependencies": {
+    "vuepress-plugin-mailchimp": "^1.4.1"
   }
 }

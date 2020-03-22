@@ -25,6 +25,38 @@ For the project in particular, we have three short term goals.
 - Sponsorship
 - Makerspace, as in a physical space with equipment and resources
 
+The following are the tentative topics which would be the focus for development of the pod.
+
+- Design Description of the Pod.  It has to include the following : 
+    - Pod Design Summary (Top Level)
+    - Pod Dimensions
+    - Pod Mass by Subsystem
+    - Pod Payload Capability
+    - Pod Materials
+    - Pod Power Source and Consumption
+    - Pod Navigation Mechanism
+    - Pod Levitation Mechanism (if any)
+    - Pod Propulsion Mechanism
+    - Pod Braking Mechanism
+    - Pod Stability Mechanism
+    - Pod Aerodynamic Coefficients
+    - Pod Magnetic Parameters (if any)
+- Predicted Pod Thermal Profile
+- Predicted Pod Trajectory with the following :
+    - Speed vs Distance
+    - Acceleration vs Distance
+    - Speed vs Time
+    - Acceleration vs Time
+    - Temperature vs Time
+- Pod Production Schedule
+- Pod Cost Breakdown
+- Sensor List and Location Map
+- Description of Safety Features including :
+    - Mechanisms to mitigate a complete loss of power
+    - Fault Tolerance of Braking, Levitation and other subsystems
+    - Single Points of Failure within the Pod
+    - Implementation of the Pod-Stop Command
+
 </p>
 </blogPage>
 
