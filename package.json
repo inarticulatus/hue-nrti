@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/inarticulatus/hue-nrti.git"
   },
-  "keywords": [hue],
-  "author": "inarticulatus",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/inarticulatus/hue-nrti/issues"
@@ -19,5 +19,4 @@
   "dependencies": {
     "vuepress": "^1.4.0"
   }
-  "homepage": "https://github.com/inarticulatus/hue-nrti#readme"
 }
