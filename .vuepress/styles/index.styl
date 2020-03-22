@@ -1,0 +1,41 @@
+.theme-container.homepage {
+  .hero {
+  }
+  .page {
+    max-width: 100vw;
+    padding: 20px;
+    padding-top: 0px;
+
+    .theme-default-content:not(.custom) {
+      max-width:100vw;
+      margin: 0 auto;
+      padding: 0;
+    }
+
+    .hero {
+      img {
+        width: 98%;
+        min-height: 80vh;
+        object-fit: cover;
+        margin: 5px 0 0 0;
+
+      }
+
+      h1 {
+        position: relative; /* Sit on top of the page content */
+        display: block; /* Hidden by default */
+        top: -60vh;
+        bottom:0;
+        text-align: center;
+        z-index: 1; /* Specify a stack order in case you're using a different order for other elements */
+        cursor: pointer; /* Add a pointer on hover */
+      
+      }
+    }
+  }
+  .features {
+    padding: 0.5rem 1rem;
+  }
+}
+
+

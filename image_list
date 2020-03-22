@@ -1,0 +1,16 @@
+    color: light-gray;
+    position: relative;
+    min-width: 750px;
+    max-width: 750px;
+    margin-top: -250px;
+    margin-left: 100px;
+    z-index:1;
+    background-color: white;
+    min-height: 1000px;
+    padding: 100px;
+    box-shadow: 0 0 8px 0 grey;
+
+
+
+
+    <img :src="require(`../../images/${page.frontmatter.image}`)" :alt="selectedDog">

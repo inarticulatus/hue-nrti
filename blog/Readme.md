@@ -1,0 +1,2 @@
+# HUE Blogs
+<posts/>
