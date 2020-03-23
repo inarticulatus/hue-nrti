@@ -13,7 +13,7 @@ pageClass: homepage
 
 <p>
 
-One of the major objectives of HUE was to facilitate the team that would be represent NRTI at Hyperloop Pod Competition. The project is very difficult, and will require a large team. Given the lack domain knowledge, it becomes even more difficult. But we need to start somewhere. And this is the perfect place to start.
+One of the major objectives of HUE was to facilitate the team that would represent NRTI at Hyperloop Pod Competition. The project is very difficult, and will require a large team. Given the lack domain knowledge, it becomes even more difficult. But we need to start somewhere. And this is the perfect place to start.
 
 The current goal for team HUEloop is to create a design report for the <a href="https://ihpc2020.web.app/">Indian Hyperloop Pod Competition</a> at IIT Madras. 
 
