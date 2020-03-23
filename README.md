@@ -60,7 +60,7 @@ Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</
 
 @media only screen and (max-width: 600px) {
     .mainContent{
-    margin:1rem;
+    margin: 0rem;
 }
     .grid-container {
   display: grid;
