@@ -5,7 +5,7 @@ pageClass: homepage
  <div class="hero grid-container-img">
  <!-- <img src="images/cover.jpg" style="width:100%;min-height:20vh;margin:0;height:40vh;"> -->
  <img class="blob" src="./images/red.svg" width=20px style="width:auto;min-height:10vh;margin:0;height:auto;max-height:30vh;">
- <img src="./images/comboLogo.png" style="width:auto;min-height:10vh;max-height:15vh;margin-top:40px;height:auto;">
+ <img src="./images/comboLogo.png" style="width:auto;min-height:10vh;max-height:15vh;margin-top:40px;height:auto;right:100px;position:absolute;">
  </div>
 
 <div class="mainContent grid-container">
