@@ -5,7 +5,8 @@ module.exports = {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: '/blog/' },
-      { text: 'HUEloop', link: '/hueloop/'  }
+      { text: 'HUEloop', link: '/hueloop/'  },
+      { text: 'About Us', link: '/AboutUs/'  }
       ]
     },
     head: [

@@ -1,11 +1,3 @@
----
-title: HUErustic
-description: What is the idea?
-author: Niharika Singh
-type: article
-image: Article1/logo.png
----
-
 <center>
 
 ![alt text](./logo.png)
