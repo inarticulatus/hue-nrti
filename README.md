@@ -44,7 +44,7 @@ Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</
 
 <style>
 .mainContent{
-    margin: 2rem 5rem;
+    margin: 4rem 10rem;
 }
 
 .grid-container {
@@ -60,7 +60,7 @@ Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</
 
 @media only screen and (max-width: 600px) {
     .mainContent{
-    margin: 0rem;
+    margin:2rem 0;
 }
     .grid-container {
   display: grid;
