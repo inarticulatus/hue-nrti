@@ -44,7 +44,7 @@ Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</
 
 <style>
 .mainContent{
-    margin: 4rem 5rem;
+    margin: 2rem 5rem;
 }
 
 .grid-container {
