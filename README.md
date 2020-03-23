@@ -2,9 +2,10 @@
 pageClass: homepage
 ---
 
- <div class="hero">
+ <div class="hero grid-container-img">
  <!-- <img src="images/cover.jpg" style="width:100%;min-height:20vh;margin:0;height:40vh;"> -->
- <img src="./images/red.svg" width=20px style="width:auto;min-height:20vh;margin:0;height:40vh;">
+ <img class="blob" src="./images/red.svg" width=20px style="width:auto;min-height:10vh;margin:0;height:auto;max-height:30vh;">
+ <img src="./images/comboLogo.png" style="width:auto;min-height:10vh;max-height:15vh;margin-top:40px;height:auto;">
  </div>
 
 <div class="mainContent grid-container">
@@ -41,7 +42,6 @@ Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</
 </div>
 </div>
 
-
 <style>
 .mainContent{
     margin: 4rem 10rem;
@@ -58,6 +58,15 @@ Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</
   padding: 20px 0;
 }
 
+.grid-container-img{
+  display: grid;
+  grid-template: 270px / auto auto;
+  grid-gap: 20px;
+  padding: 10px;
+  padding-left:150px;
+}
+
+
 @media only screen and (max-width: 600px) {
     .mainContent{
     margin:2rem 0;
@@ -73,8 +82,11 @@ Also, you could subscribe to our <a href="http://eepurl.com/gXc91v">Newsletter</
   padding: 0 0;
   margin: 0;
 }
-.blob{
-    display: none;
+.grid-container-img{
+  display: grid;
+  grid-template: 180px / auto;
+  grid-gap: 20px;
+  padding: 15%;
 }
 }
 </style>

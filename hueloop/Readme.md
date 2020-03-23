@@ -17,8 +17,6 @@ One of the major objectives of HUE was to facilitate the team that would represe
 
 The current goal for team HUEloop is to create a design report for the <a href="https://ihpc2020.web.app/">Indian Hyperloop Pod Competition</a> at IIT Madras. 
 
-While the aim is to win the competition, the team is not going to stop its progress. 
-
 For the project in particular, we have three short term goals.
 
 - A Team
