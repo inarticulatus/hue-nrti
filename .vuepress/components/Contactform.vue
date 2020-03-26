@@ -26,9 +26,9 @@
       />
       <span>{{ panelist }}</span>
     </label>
-    <div style="padding:20px;">
-    <input type="button" name="Contact" value="Submit" />
-    <!-- <button>Submit</button> -->
+    <div style="padding-top:20px;">
+    
+    <button>Submit</button>
     </div>
   </form>
   </div>
