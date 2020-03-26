@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   repo: inarticulatus/hue-nrti
   branch: master
-media_folder: ".vuepress/public/"
-public_folder: "/blog/blogimages/"
+media_folder: "/blog/blogimages/"
+public_folder: "blogimages/"
 display_url: https://hue-nrti.netlify.com
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
