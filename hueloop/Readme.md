@@ -11,6 +11,12 @@ pageClass: homepage
 </center>
 <blogPage><h1 style="height:100px;">Hyperloop Pod Development Team</h1>
 
+> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfAPlCnprxTP9zHIb3OLvgVkjtXhr8DwseMD68ZGInESqH98g/viewform?usp=sf_link"> HUEloop Team Sign Up Form</a> is now open.  
+>Please fill out the form above if you are interested in joining the HUEloop team.
+>Note that this form is only for the students of NRTI.   
+
+
+
 <p>
 
 One of the major objectives of HUE was to facilitate the team that would represent NRTI at Hyperloop Pod Competition. The project is very difficult, and will require a large team. Given the lack domain knowledge, it becomes even more difficult. But we need to start somewhere. And this is the perfect place to start.
