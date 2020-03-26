@@ -2,20 +2,21 @@ backend:
   name: git-gateway
   repo: inarticulatus/hue-nrti
   branch: master
-media_folder: ".vuepress/public/"
+media_folder: "/blog/blogimages"
 public_folder: "../../"
 display_url: https://hue-nrti.netlify.com
 collections:
-  - name: "doc" # Used in routes, e.g., /admin/collections/blog
-    label: "Doc" # Used in the UI
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Post" # Used in the UI
     folder: "blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "Blog-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     show_preview_links: true
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list"}
+      - {label: "Article Type", name: "type", widget: "list"}
