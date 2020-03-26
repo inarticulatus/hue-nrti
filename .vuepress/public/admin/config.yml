@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: inarticulatus/hue-nrti
   branch: master
 media_folder: ".vuepress/public/"
