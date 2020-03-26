@@ -58,7 +58,7 @@ Our focus is to build a community where people can teach and learn collaborative
 <p>
 
 You don't need to be a member of the club to take part in or organize an activity. You can just sign up for the particular activity you are interested in and bring out your inner maker. 
-However, to maintain this flexible structure, we do require a core team which can rigorously plan and execute these activities and we are always on a lookout. So, contact us for becoming part of the core team.
+However, to maintain this flexible structure, we do require a core team which can rigorously plan and execute these activities and we are always on a lookout. So, <a href="/contact/"> contact us </a> for becoming part of the core team.
 
 </p>
 </div>
